@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a163207e630de8e42aadcb8813160c07
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tox Typewriter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52dc81dc8eda018468046bf1b50c6d14, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
