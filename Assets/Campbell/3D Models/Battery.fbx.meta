@@ -3,7 +3,12 @@ guid: 45c63dbf2aa4fbb49bf749923dd31505
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 0e668f2eec9702140b9a5ea8892567c4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
