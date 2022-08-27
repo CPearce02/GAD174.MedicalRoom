@@ -7,6 +7,7 @@ using TMPro;
 public class TriggerText : MonoBehaviour
 {
     public TextMeshProUGUI flavourText;
+    public AudioSource source;
     public string text;
 
     // Start is called before the first frame update
@@ -24,6 +25,7 @@ public class TriggerText : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         flavourText.text = text;
+        source.Play();
         flavourText.gameObject.SetActive(true);
     }
 
