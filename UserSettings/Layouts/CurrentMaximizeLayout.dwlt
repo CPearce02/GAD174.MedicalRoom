@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 11660
+  controlID: 17
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 11661
+  controlID: 18
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -419,9 +419,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 974.7192, y: 546.6136, z: 9.383881}
+    m_Target: {x: 993.6067, y: 541.77, z: 57.537186}
     speed: 2
-    m_Value: {x: 974.7192, y: 546.6136, z: 9.383881}
+    m_Value: {x: 993.6067, y: 541.77, z: 57.537186}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -468,13 +468,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.058517303, y: 0.07951168, z: -0.005801489, w: 0.99538994}
+    m_Target: {x: 0.11705405, y: 0.012665934, z: -0.0027294112, w: 0.99336255}
     speed: 2
-    m_Value: {x: 0.05850031, y: 0.07948859, z: -0.0057998043, w: 0.99510086}
+    m_Value: {x: 0.11701668, y: 0.01266189, z: -0.0027285398, w: 0.9930454}
   m_Size:
-    m_Target: 1156.4617
+    m_Target: 483.82562
     speed: 2
-    m_Value: 1156.4617
+    m_Value: 483.82562
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -584,23 +584,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e05c0000
-      m_LastClickedID: 23776
-      m_ExpandedIDs: 4ee3ffffaee3fffff2e9ffff22eeffff2ceeffff36fbffff38fbffff945c0000fe5d00002660000058620000
+      m_SelectedIDs: ac0f0200
+      m_LastClickedID: 135084
+      m_ExpandedIDs: e871ffff9a8bffff56a4ffff72c9ffff22d7fffff8e9ffff64f0ffff38fbffffae6d0000b8700000d27000003a9600006e96000050b200002e7d010066a3010018a70100840f02009c0f0200ac0f0200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Quit
+        m_OriginalName: Quit
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 135084
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -678,22 +678,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Week 1/Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Week 1/Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Chantelle\Documents\GitHub\GAD174.MedicalRoom
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f66c0000
-    m_LastClickedID: 27894
-    m_ExpandedIDs: 00000000186c00001a6c0000ea6c0000
+    scrollPos: {x: 0, y: 36}
+    m_SelectedIDs: de200200
+    m_LastClickedID: 139486
+    m_ExpandedIDs: 00000000306c0000326c0000526d0000666d0000da200200dc200200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -721,7 +721,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000186c00001a6c0000
+    m_ExpandedIDs: 00000000306c0000326c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -746,8 +746,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: e05c0000
-    m_LastClickedInstanceID: 23776
+    m_SelectedInstanceIDs: ac0f0200
+    m_LastClickedInstanceID: 135084
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300006096000000000000
     m_RenameOverlay:
@@ -891,7 +891,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 507
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
